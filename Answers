@@ -1,0 +1,51 @@
+Floats --
+1. Both sets of lists move to the right, staying in a row
+2. Both sets of list stay on the right site of the page, with a little space in between them and lost of space on the right side
+3. One list goes to the right and the other goes to the left, with an equal amount of space in between the two blocks
+4. The lists create a column appearance with testDiv1 taking up more space and being on top of testDiv2
+5. 40%
+6. The lists no longer are in the same row, they shift
+7. They change the level of % the columns need to be in order to be in the same row
+8. Three columns, not equal across the page though
+9. Columns are equally sized, flowing down the left side of the page
+10. Left column contained two columns (the on not taking up 25% sort of swallowed the 25%); the other column stayed on the other side
+11. Two columns on the left and right are equal, center column wider than the others and hugs left
+
+
+Lists --
+A:
+1.the bulleted list changed from full filled in bullets to an outline of a circle
+2. same thing as #1
+3. bullets become squares
+4. bullets disappear
+5. List becomes enclosed by a solid red rectangle outline
+6. List moves closer to the left side of the border
+7. Space comes back between the border and the text of the list
+8. The list is the closet its been to the border - no space
+
+B:
+1. Black dashed border outlined the list
+2. Space returns between list text and the left side of the border
+3. The size of the box shrinks, really only encompassing the size of the list text
+4. Space is added between the border and the list text
+5. The border breaks and appears only at the top and the bottom of the list, the text is moved all the way to the left of the page
+6. List returns to inside the box
+7. Appears to be the same
+
+
+Position --
+1. the placement of the box remains the same
+2. The box moves from the left edge of the page to the 100 mark on the ruler
+3. The box moves back to the left of the page, and of it gets cut off (I don't think is correct)
+4. There is space added between the top of the box and the ruler
+5. The space at the top remains, and the box shifts to the right starting at the 200 mark on the ruler
+6. Box goes back to the same spot as #1
+7. The box is in the same place as before, but it cuts of the text outside/below the box
+8. The box moves to the 'absolute' top left of the page (above the fold/ruler)
+9. The box moves to the right top of the page
+10. The box moves from the right top corner to 100px in from the right top corner
+11. The box stays in the same 100px from the right but it goes back below the ruler
+12. The box stays in the 100px from right but it sits on top of the ruler
+13. I tried the right one again, but it went back to the left like before idk bruh
+    Static seems to allow the box to move and shift text when you change the appearance of the browser
+    Sticky appears to do almost the same thing as static
